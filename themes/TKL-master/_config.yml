@@ -1,0 +1,62 @@
+# config
+cover: /img/bg_img.jpg
+logo: 
+top_saying:
+- title: 
+- content: 
+bottom_saying: 不忘初心，方得始终。
+# Content
+excerpt_link: Read More
+
+rss: /atom.xml
+
+highlightjs: vs
+
+#Works
+works:
+- works_name: AAA
+  works_url: /
+- works_name: BBB
+  works_url: /atom.xml
+
+#duoshuo name
+duoshuo:
+
+#disqus name
+disqus_shortname:
+
+#fancybox
+fancybox: true
+
+# Miscellaneous
+github: https://github.com/wyx111
+twitter: https://twitter.com/wyx111
+facebook: https://www.facebook.com/
+
+#about  timeline
+timeline:
+- num: 1
+  word: 
+- num: 2
+  word: 
+- num: 3
+  word: 
+- num: 4
+  word: More
+
+#Links
+links:
+- name: Kieran
+  link: http://go.kieran.top/
+- name: Jiangbianwanghai
+  link: https://www.Jiangbianwanghai.com/
+
+# Local search
+# Dependencies: https://github.com/flashlab/hexo-generator-search
+local_search:
+  enable: false
+  # if auto, trigger search by changing input
+  # if manual, trigger search by pressing enter key or search button
+  trigger: auto
+  # show top n results per article, show all results by setting to -1
+  top_n_per_article: 2
