@@ -1,5 +1,5 @@
 # config
-cover: /img/bg_img.jpg
+cover: https://i.loli.net/2018/08/31/5b88919d09611.jpg
 logo: 
 top_saying:
 - title: 
@@ -14,10 +14,10 @@ highlightjs: vs
 
 #Works
 works:
-- works_name: AAA
-  works_url: /
-- works_name: BBB
-  works_url: /atom.xml
+- works_name: HEXO
+  works_url: https://hexo.io/zh-cn/docs/
+- works_name: 世界工厂网
+  works_url: https://www.gongchang.com/
 
 #duoshuo name
 duoshuo:
@@ -31,7 +31,6 @@ fancybox: true
 # Miscellaneous
 github: https://github.com/wyx111
 twitter: https://twitter.com/wyx111
-facebook: https://www.facebook.com/
 
 #about  timeline
 timeline:
